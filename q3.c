@@ -4,7 +4,7 @@
 
 int main()
 {
- execl("/home/sneha/assign_ps_3", "./assign_ps_3", 0);
+ execl("/home/sneha/assignPS-3", "./assignPS-3", 0);
 
  return 0;
 }
